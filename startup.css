@@ -1,0 +1,83 @@
+body,html{
+    /* width: 100px;
+    height:100px; */
+    font-family: 'Open Sans', sans-serif;
+    background: url(Screen-Shot-2016-10-17-at-12.54.50-PM.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+} 
+hr{
+  border-color: aliceblue;
+  align-items: baseline;
+  max-width: 2000px;
+
+}    
+h1{
+  align-items: center;
+  color: aliceblue;
+  
+  
+}  
+
+h2{
+  font-size: 40px;
+  color:antiquewhite
+  
+  
+}
+.btn{
+
+  font-weight: 100;
+  border-radius: 0.2cm;
+  text-transform: uppercase;
+ 
+ 
+}
+.btn-xl{
+  padding:1rem,2rem;
+
+  
+ 
+
+}
+.btn-primary{
+
+ transition: 0.5s;
+}
+.btn-primary:hover{
+
+border-width: 0.2cm;
+transition: 0.2s;
+
+
+}
+.textcenter{
+
+  align-items: center;
+}
+.text-left,h3{
+  font-size: 80px;
+  color: aliceblue;
+}
+
+.buffer{
+
+  height: 1cm;
+}
+
+.declaration-center{
+
+  text-align: center!important;
+}
+.declaration-opacity{
+
+  color: aliceblue;
+}
+
+.declaration-small{
+
+  font-size: large;
+}
